@@ -1,5 +1,5 @@
 {
 "dependencies": {
-"dotnev": "^9.0.2"
+"dotenv": "^9.0.2"
 }
 }
